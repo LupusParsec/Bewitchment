@@ -1590,13 +1590,13 @@ tc.aspect.sol=The Sun
 
 research.MATSTUDCOLDIRON.title=Material Studies: Cold Iron
 research.MATSTUDCOLDIRON.stage.1=Like mundane iron, cold iron is quite sturdy but heavy. <BR>However, unlike mundane iron, cold iron has several arcane properties, especially in terms of warding off demons and spirits.
-research.f_MATSTUDCOLDIRON.text=Examine blocks of cold iron.
+research.f_MATCOLDIRON.text=Examine Cold Iron.
 golem.material.coldiron=Cold Iron
 golem.material.text.coldiron=The golem is crafted from cold iron. While it shares many identical characteristics with iron, it provides additional strength against demons and spirits.
 
 research.MATSTUDSILVER.title=Material Studies: Silver
 research.MATSTUDSILVER.stage.1=Silver, being a precious metal, has been sought out for trading. However, silver is very soft and malleable, albeit not as malleable as gold. <BR>Undead seem to be repulsed by silver, as do some other creatures of the night, however.
-research.f_MATSTUDSILVER.text=Examine blocks of silver.
+research.f_MATSILVER.text=Examine Silver.
 golem.material.silver=Silver
 golem.material.text.silver=The golem is crafted from silver. This soft and malleable metal is also potent against the undead.
 
