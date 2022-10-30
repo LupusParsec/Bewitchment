@@ -685,6 +685,27 @@ bewitchment.paper_skin=Paper Skin
 bewitchment.rage=Rage
 bewitchment.friendship=Friendship
 
+bewitchment.lizard=Lizard
+bewitchment.owl=Owl
+bewitchment.raven=Raven
+bewitchment.snake=Snake
+bewitchment.toad=Toad
+bewitchment.black_dog=Black Dog
+bewitchment.ghost=Ghost
+bewitchment.hellhound=Hellhound
+bewitchment.feuerwurm=Feuerwurm
+bewitchment.werewolf=Werewolf
+bewitchment.cleaver=Cleaver
+bewitchment.demon=Asag
+bewitchment.demoness=Astaroth
+bewitchment.imp=Imp
+bewitchment.bafometyr=Bafometyr
+bewitchment.shadow_person=Shadow Person
+bewitchment.cambion=Cambion
+bewitchment.druden=Druden
+bewitchment.baphomet=Baphomet
+bewitchment.leonard=Leonard
+
 incense.bewitchment.vitality=Vitality
 incense.bewitchment.deftness=Deftness
 incense.bewitchment.invigorating=Invigorating
